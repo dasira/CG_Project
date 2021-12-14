@@ -1,5 +1,18 @@
-﻿  main.cpp
-D:\Users\anji0\Desktop\3학년 2학기\컴그\Project3\Project3\main.cpp(116,23): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
-D:\Users\anji0\Desktop\3학년 2학기\컴그\Project3\Project3\main.cpp(220,34): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-D:\Users\anji0\Desktop\3학년 2학기\컴그\Project3\Project3\main.cpp(346,25): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
-  Project3.vcxproj -> D:\Users\anji0\Desktop\3학년 2학기\컴그\Project3\Debug\Project3.exe
+﻿  robot.cpp
+D:\CG_Project\Project3\Project3\robot.cpp(210,24): warning C4305: '-=': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+D:\CG_Project\Project3\Project3\robot.cpp(223,36): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\CG_Project\Project3\Project3\robot.cpp(233,21): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\CG_Project\Project3\Project3\robot.cpp(320,20): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+D:\CG_Project\Project3\Project3\robot.cpp(325,20): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+D:\CG_Project\Project3\Project3\robot.cpp(623,24): warning C4305: '-=': 'double'에서 'T'(으)로 잘립니다.
+          with
+          [
+              T=float
+          ]
+D:\CG_Project\Project3\Project3\robot.cpp(636,36): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\CG_Project\Project3\Project3\robot.cpp(646,21): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Project3.vcxproj -> D:\CG_Project\Project3\Debug\Project3.exe
